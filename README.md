@@ -5,7 +5,7 @@ This repository contains the core financial infrastructure of VelaCore, ported t
 ## 📜 Included Contracts
 - **VEC Token:** The native utility token for the VelaCore ecosystem.
 - **Staking Module:** High-yield staking logic for $VEC holders.
-- **Payment Gateway(In Development):** Smart contracts for non-custodial merchant settlements.
+- **Payment Gateway (In Development):** Smart contracts for non-custodial merchant settlements.
 
 ## 🚀 Why Flow EVM?
 We are deploying on Flow's Crescendo (EVM) layer to provide:
@@ -14,8 +14,8 @@ We are deploying on Flow's Crescendo (EVM) layer to provide:
 - **Ethereum Compatibility:** Full Solidity support with Flow's scalability.
 
 ## 🛠 Tech Stack
-- **Language:** Solidity (^0.8.0)
-- **Framework:** Remix / Hardhat
+- **Language:** Solidity (^0.8.20)
+- **Framework:** Remix
 - **Network:** Flow EVM Testnet
 
 ## 🚀 Deployed Addresses (Flow EVM Testnet)
