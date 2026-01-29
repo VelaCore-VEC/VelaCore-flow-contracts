@@ -18,5 +18,12 @@ We are deploying on Flow's Crescendo (EVM) layer to provide:
 - **Framework:** Remix / Hardhat
 - **Network:** Flow EVM Testnet
 
+## 🚀 Deployed Addresses (Flow EVM Testnet)
+- **$VEC Token:** `0x82829a882AB09864c5f2D1DA7F3F6650bFE2ebb8`
+- **Staking Contract:** `0xc75608EfEc43aC569EAB2b7DA8D1A23FE653e80B`
+
+## 🔍 Verified on FlowScan
+You can verify the source code and transactions on [FlowScan EVM](https://evm-testnet.flowscan.io/).
+
 ## 🔒 Security
 All contracts are currently in the testing phase on Flow Testnet. Private keys are managed via environment variables and are never committed to this repository.
